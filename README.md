@@ -17,11 +17,12 @@ I hold a master's degree in software engineering and run a laptop shop, so I wor
 |---|---|
 | [glowgills-studio](https://github.com/forgelab-ai/glowgills-studio) | Desktop app: publish a folder of videos to YouTube, Instagram, Facebook and TikTok, one a day, from one window |
 | [tutorial-forge](https://github.com/forgelab-ai/tutorial-forge) | Turn a raw screen recording and a voiceover into a YouTube-ready tutorial from a short JSON plan: speed ramps, punch-ins, step labels and chapters |
+| [product-reel](https://github.com/forgelab-ai/product-reel) | n8n workflow plus a Python service: upload one product photo and get a vertical promo Reel back |
 | *The Glowgills* | An AI-generated preschool cartoon channel, produced with my own local video pipeline and published by the app above |
 
 ### Tools
 
-`Python` · `ffmpeg` · `ComfyUI` · `LTX-2` · `YouTube Data API` · `Meta Graph API` · `TikTok API` · `Tkinter` · `PyInstaller` · `Claude Code`
+`Python` · `n8n` · `ffmpeg` · `ComfyUI` · `LTX-2` · `YouTube Data API` · `Meta Graph API` · `TikTok API` · `Tkinter` · `PyInstaller` · `Claude Code`
 
 ### Work with me
 
