@@ -16,6 +16,7 @@ I hold a master's degree in software engineering and run a laptop shop, so I wor
 | Project | What it does |
 |---|---|
 | [glowgills-studio](https://github.com/forgelab-ai/glowgills-studio) | Desktop app: publish a folder of videos to YouTube, Instagram, Facebook and TikTok, one a day, from one window |
+| [tutorial-forge](https://github.com/forgelab-ai/tutorial-forge) | Turn a raw screen recording and a voiceover into a YouTube-ready tutorial from a short JSON plan: speed ramps, punch-ins, step labels and chapters |
 | *The Glowgills* | An AI-generated preschool cartoon channel, produced with my own local video pipeline and published by the app above |
 
 ### Tools
